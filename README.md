@@ -1,6 +1,6 @@
 # CookieClicker
 
-Group Members: Itay Shemesh, Will O'Bryan, Rounak Kafle, Marco
+Group Members: Itay Shemesh, Will O'Bryan, Rounak Kafle, Marco Zuniga
 Lab Sections: 02, 03
 
 Summary:
