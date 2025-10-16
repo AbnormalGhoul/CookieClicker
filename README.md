@@ -1,8 +1,5 @@
 # CookieClicker
 
-Group Members: Itay Shemesh, Will O'Bryan, Rounak Kafle, Marco Zuniga
-Lab Sections: 02, 03
-
 Summary:
 Cookie Clicker is an incremental idle game where the player clicks on a cookie to earn cookies. The goal is to accumulate as many cookies as possible by repeatedly clicking the cookie and using the cookies earned to buy various upgrades that automate cookie production.
 
